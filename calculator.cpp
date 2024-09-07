@@ -157,7 +157,7 @@ class rev{
             d/=10;
             n++;
         }
-        cout<<"by reversing the number is "<<r<<endl;
+        cout<<"by reversing this number is "<<r<<endl;
     }
 };
 
